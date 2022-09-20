@@ -1,0 +1,46 @@
+.div-institucional{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 200px;
+    background-color: #273443;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    margin-top: 70px;
+}
+
+.titulos{
+    display: flex;
+    text-align: center;
+    font-weight: bold;
+    white-space: nowrap;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+.lista-whatsapp{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 30px;
+    
+}
+
+.footer{
+    background-color: #1c1e21;
+    padding: 20px;
+
+}
+
+.informacoes{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-weight: bold;
+    white-space: nowrap;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+
+}

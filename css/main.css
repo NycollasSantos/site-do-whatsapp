@@ -1,0 +1,63 @@
+.secao-main{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    gap: -1px;
+    column-gap: 80px;
+}
+
+.div-main{
+    row-gap: 20px;
+}
+
+.titulo-principal{
+    font-weight: bold;
+    margin-top: 40px;
+    font-size:33px ;
+    font-family: 'Inter', sans-serif;
+    color: rgb(25, 25, 25);
+
+}
+
+.descricao{
+    margin-top: 30px;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    color: rgb(25, 25, 25);
+}
+
+.descricao2{
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+    color: rgb(124, 124, 124);
+}
+
+.foto-main{
+    display: flex;
+    border: 0;
+    max-width: 100%;
+}
+
+.link-main{
+    display: flex;
+    margin-top: 50px;
+    align-items: left;
+    flex-direction: column;
+    color: #39b3ed;
+    font-size: 19px;
+    gap
+}
+
+.link-Android{
+    color: #128c7e;
+}
+
+.link-iphone{
+    color: #128c7e;
+}
+
+.link-mac{
+    color: #128c7e;
+}
+
